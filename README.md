@@ -6,9 +6,9 @@ I am also passionate about Philosophy 🧠 , combat sports 🥊 & soccer ⚽️ 
 
 I'm a programming beginner 🖥️👨‍💻
 My programming languages : 
-💙 Python for modelling , data analysis and algorithms
-🩷 C/C++  for algorithm and object-oriented programming
-🩵 R      for statistics and probabilities 
+- 💙 Python for modelling , data analysis and algorithms
+- 🩷 C/C++  for algorithm and object-oriented programming
+- 🩵 R      for statistics and probabilities 
 
 any advice, given frankly, is welcome 🙌
 
