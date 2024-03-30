@@ -10,7 +10,8 @@ I'm a programming beginner 🖥️👨‍💻
 My programming languages : 
 - 💙 Python for modelling , data analysis and algorithms
 - 🩷 C/C++  for algorithm and object-oriented programming
-- 🩵 R      for statistics and probabilities 
+- 🩵 R      for statistics and probabilities
+- 🧡 SQL    for database management
 
 any advice, given frankly, is welcome 🙌
 
