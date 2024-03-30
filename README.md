@@ -1,6 +1,6 @@
 Hi everyone , I'm Falite , a young engeneering student at @Polytech Lyon 🇫🇷
 I'm from Reunion Island 🇷🇪 
-I have a Mathématics Bachelor's degree 🧮 and I'm studyoing in a engeneering degree in mathematics & modelling
+I have a Mathematics Bachelor's degree 🧮 and I'm studyoing in a engeneering degree in mathematics & modelling
 
 I am also passionate about Philosophy 🧠 , combat sports 🥊 & soccer ⚽️ .
 
