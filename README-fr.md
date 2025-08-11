@@ -1,5 +1,5 @@
 # Bienvenue 
-<div style="text-align: center">
+<div style="text-align: center;">
 <a href="README.md">In English</a>
 </div>
 
