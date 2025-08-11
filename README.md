@@ -1,15 +1,14 @@
 # WELCOME 
+[En français](README-fr.md)
 
-![bannière](IMG_2486.png)
+![bannière](images/IMG_2486.png)
 
 ## ME 
-Hi everyone , I'm Falite , a young engeneering student at @Polytech Lyon 🇫🇷.   
+Hi everyone , I'm Falite , a young student at Reunion Island 🇷🇪.   
 
-I'm from Reunion Island 🇷🇪     
+I have a Mathematics Bachelor's degree 🧮 and I I am in the first year of a Master's in Teaching, Education, and Training (MEEF) in Mathematics, which is a program to become a secondary school mathematics teacher.🇷
 
-I have a Mathematics Bachelor's degree 🧮 and I'm studyoing in a engeneering degree in mathematics & modelling.     
-
-I am also passionate about Philosophy 🧠 , combat sports 🥊 & soccer ⚽️ .     
+I am also passionate about Philosophy 🧠, French literature 📚, History 📜, Cinema 🎥, combat sports 🥊, and soccer ⚽.  
 
 I'm a programming beginner 🖥️👨‍💻
 ## My programming languages : 
