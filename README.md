@@ -1,4 +1,5 @@
 # WELCOME 
+
 <div style="text-align: center;">
 <a href="README-fr.md">En français 🇫🇷</a>
 </div>
@@ -12,7 +13,11 @@ I have a Mathematics Bachelor's degree 🧮 and I I am in the first year of a Ma
 
 I am also passionate about Philosophy 🧠, French literature 📚, History 📜, Cinema 🎥, combat sports 🥊, and soccer ⚽.  
 
-I'm a programming beginner 🖥️👨‍💻
+# Objectives 
+I'm a programming beginner 🖥️👨‍💻, so I'd like to :
+- Work on more robust training models
+- Work on iOS, iPadOS and watchOS applications
+
 ## My programming languages : 
 - ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB) for modelling , data analysis and algorithms.    
 - ![C/C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)  for algorithm and object-oriented programming.     

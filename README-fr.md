@@ -9,11 +9,16 @@
 
 Bonjour à tous, je suis Falite, un jeune étudiant en M1 MEEF Mathématiques à l'[INSPE de La Réunion](https://inspe.univ-reunion.fr/) !
 
-J'ai une Licence de Mathématiques à l'Université de La Réunion, et je programme un peu tout ce qui touche de près ou de loin aux mathématiques (Modélisations, Algorithmes, Modèles d'Apprentissage-Régression,Programmation Orienté Objet) mais aussi un peu de Développpement Informatique (Web ou même IOS, IpadOS et WatchOS si l'avenir me le permet)
+J'ai une Licence de Mathématiques à l'Université de La Réunion, et je programme un peu tout ce qui touche de près ou de loin aux mathématiques (Modélisations, Algorithmes, Modèles d'Apprentissage-Régression,Programmation Orienté Objet) mais aussi un peu de Développpement Informatique Web
 
 Je suis aussi passionné par la Philosophie, la Littérature française, l'Histoire, le Cinéma, le MMA, la Boxe Anglaise.
 
 Vous pouvez visiter mon [SensCritique](https://www.senscritique.com/AbdoulFalite) et mon [Letterboxd](https://boxd.it/fPwal)
+
+# Mes objectifs 
+Je suis un développeur novice, cependant j'aimerais : 
+- travailler sur des modèles d'entraînement plus robustes.
+- travailler sur des applications iOS, iPAdOS et WatchOS.
 
 # Mes langages de programmation : 
 - ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB) pour modéliser, élaborer des algorithmes, .    
